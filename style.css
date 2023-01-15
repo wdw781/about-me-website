@@ -1,0 +1,9 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn--group {
+    font-size: 30px;
+    text-align: right;
+    margin-top: 19px;
+}
