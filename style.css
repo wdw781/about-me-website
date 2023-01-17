@@ -3,7 +3,19 @@ body {
 }
 
 .btn--group {
-    font-size: 30px;
+    font-size: 38px;
     text-align: right;
-    margin-top: 19px;
+    margin-top: 22px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#heading {
+    margin-top: 199px;
+    font-size: 78px;
+    text-align: center;
+}
+
