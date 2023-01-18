@@ -4,7 +4,6 @@ body {
 
 .btn--group {
     font-size: 38px;
-    text-align: right;
     margin-top: 22px;
 }
 
@@ -19,3 +18,9 @@ a {
     text-align: center;
 }
 
+.desc {
+    padding: 20px;
+    margin-top: 500px;
+    text-align: center;
+    margin-bottom: 200px;
+}
