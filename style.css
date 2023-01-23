@@ -1,5 +1,7 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
+    background: url("bkimage.jpg");
+    background-repeat: no-repeat;
 }
 
 .btn--group {
