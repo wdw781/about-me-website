@@ -1,16 +1,15 @@
 * {
     margin: 0;
+    color: black;
 }
 
 .heading {
     font-size: 84px;
     text-align: center;
-    margin-top: 190px;
-    color: white;
-    font-family: 'Crete Round', serif;
+    margin-top: 190px;  
+    font-family: 'Arvo', serif;
 }
 a {
-    color: white;
     text-decoration: none;
 }
 
@@ -23,11 +22,17 @@ ul {
     text-align: right;
     margin-right: 32px;
     margin-top: 32px;
-    font-family: 'Crete Round', serif;
+    font-family: 'Arvo', serif;
 }
 
 body {
-    background-image: url("lmao.jpg");
+    background-image: url("bc.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.desc {
+    margin-top: 600px;
+    font-family: 'Arvo', serif;
+    text-align: center;
 }
