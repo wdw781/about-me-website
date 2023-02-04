@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+.heading {
+    font-size: 84px;
+    text-align: center;
+    margin-top: 190px;
+    color: white;
+    font-family: 'Crete Round', serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    text-decoration: none;
+}
+
+.btn-list {
+    font-size: 32px;
+    text-align: right;
+    margin-right: 32px;
+    margin-top: 32px;
+    font-family: 'Crete Round', serif;
+}
+
+body {
+    background-image: url("lmao.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
