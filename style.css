@@ -4,10 +4,9 @@
 }
 
 .heading {
-    font-size: 84px;
+    font-size: 100px;
     text-align: center;
-    margin-top: 190px;  
-    font-family: 'Arvo', serif;
+    margin-top: 190px;
 }
 a {
     text-decoration: none;
@@ -22,17 +21,15 @@ ul {
     text-align: right;
     margin-right: 32px;
     margin-top: 32px;
-    font-family: 'Arvo', serif;
 }
 
-body {
-    background-image: url("bc.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 .desc {
     margin-top: 600px;
-    font-family: 'Arvo', serif;
     text-align: center;
+    width: 1563px;
+    height: 337px;
+    background-color: gray;
+    background-position: center;
 }
